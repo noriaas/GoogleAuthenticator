@@ -1,5 +1,5 @@
 {
-    "name": "phpgangsta/googleauthenticator",
+    "name": "noriaas/googleauthenticator",
     "description": "Google Authenticator 2-factor authentication",
     "version": "1.0.0",
     "type": "library",
@@ -11,7 +11,14 @@
             "email": "info@phpgangsta.de",
             "homepage": "http://www.phpgangsta.de/",
             "role": "Developer"
-        }
+        },
+    	{
+            "name": "Ricky Nguyen",
+            "email": "ricky.nguyen@noria.no,
+            "homepage": "https://ricky.nguyen@noria.no",
+            "role": "Developer"
+        },
+	    
     ],
     "support": {
         "source": "https://github.com/PHPGangsta/GoogleAuthenticator",
