@@ -17,8 +17,7 @@
             "email": "ricky.nguyen@noria.no",
             "homepage": "https://ricky.nguyen@noria.no",
             "role": "Developer"
-        },
-	    
+        }
     ],
     "support": {
         "source": "https://github.com/PHPGangsta/GoogleAuthenticator",
